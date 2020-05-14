@@ -1,0 +1,57 @@
+* {
+    font-family: 'Happy Monkey', Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    padding: 0 50px;
+    box-shadow: 6px 3px 20px -4px rgba(80,81,82,0.8);
+}
+
+p, li {
+    color: #707070;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    padding-top: 10px;
+    color: #DB0038;
+}
+
+h2 {
+    color: #3998A3;
+}
+
+h3 {
+    color: #474747;
+}
+
+.hero {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+li {
+    padding: 5px 0;
+}
+
+.star {
+    font-size: 25px;
+}
+
+.star__full {
+    color: #F4B400;
+}
+
+.rating, footer {
+    text-align: center;
+}
+
+footer > p {
+    padding-bottom: 10px;
+}
